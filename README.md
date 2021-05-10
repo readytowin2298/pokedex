@@ -3,7 +3,7 @@
 
 Create a pokemon application (a “pokedex”) that displays an interface that looks like this:
 
-![] (http://curric.rithmschool.com/springboard/exercises/react-props-pokedex/_images/pokedex.png)
+![Example](http://curric.rithmschool.com/springboard/exercises/react-props-pokedex/_images/pokedex.png)
 
 To create the pokedex, you should use 3 components:
 
