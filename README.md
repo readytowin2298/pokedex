@@ -28,7 +28,7 @@ Use the defaultProps feature of Pokedex to provide a default list of Pokemon cha
 >   {id: 39, name: 'Jigglypuff', type: 'normal', base_experience: 95},  
 >   {id: 94, name: 'Gengar', type: 'poison', base_experience: 225},  
 >   {id: 133, name: 'Eevee', type: 'normal', base_experience: 65}  
-> ]
+> ]  
 For each pokemon, their image source should be: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png.
 
 # Further Study: More Pokemon!
@@ -56,4 +56,6 @@ Note that the two cards you display must be different. You also don’t need to 
 Here’s an image of what the app might look like:
 
 ![Example](http://curric.rithmschool.com/springboard/exercises/react-props-pokedex/_images/blackjack.png)
+
+  
 Spend some time talking with your partner about the component design for this application, if you decide to give it a shot.
