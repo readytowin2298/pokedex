@@ -29,6 +29,8 @@ Use the defaultProps feature of Pokedex to provide a default list of Pokemon cha
 >   {id: 94, name: 'Gengar', type: 'poison', base_experience: 225},  
 >   {id: 133, name: 'Eevee', type: 'normal', base_experience: 65}  
 > ]  
+
+
 For each pokemon, their image source should be: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png.
 
 # Further Study: More Pokemon!
