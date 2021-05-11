@@ -1,3 +1,5 @@
+import React from 'react';
+
 function PokeCard({id, name, type, base_experience}){
     return (
         <div className="PokeCard">
@@ -9,4 +11,6 @@ function PokeCard({id, name, type, base_experience}){
             </ul>
         </div>
     )
-}
+};
+
+export default PokeCard;
